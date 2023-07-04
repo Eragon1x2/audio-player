@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/audio-player/static/css/main.fc75eb8e.css",
+    "main.js": "/audio-player/static/js/main.b17e244d.js",
+    "static/media/leave_the_city.mp3": "/audio-player/static/media/leave_the_city.e8914c9a4e2342851245.mp3",
+    "static/media/minecraft.mp3": "/audio-player/static/media/minecraft.fb9fd1726041f2c09531.mp3",
+    "static/media/in_the_end.mp3": "/audio-player/static/media/in_the_end.3e1249f5a0bc482407ee.mp3",
+    "static/media/domination.mp3": "/audio-player/static/media/domination.b5da8cb4c5d58b2dd969.mp3",
+    "static/media/leave_the_city.jpg": "/audio-player/static/media/leave_the_city.c74b725b03ba12e1e5c8.jpg",
+    "static/media/domination.jpg": "/audio-player/static/media/domination.f047fdb62d410e685ffb.jpg",
+    "static/media/minecraft.png": "/audio-player/static/media/minecraft.88614d377b384d28e9e1.png",
+    "static/media/in_the_end.jpg": "/audio-player/static/media/in_the_end.a45c90fc9bb6ae708160.jpg",
+    "index.html": "/audio-player/index.html",
+    "static/media/left.svg": "/audio-player/static/media/left.71d460e511f22ae07de726c4698b01e7.svg",
+    "static/media/right.svg": "/audio-player/static/media/right.72b96ee9fd9086bcd9244f02566186e1.svg",
+    "static/media/pause.svg": "/audio-player/static/media/pause.95f9a6834ff7aa0b49c0f2290508f448.svg",
+    "static/media/start.svg": "/audio-player/static/media/start.bec613a735299b65e82e3349cd92b3f6.svg",
+    "main.fc75eb8e.css.map": "/audio-player/static/css/main.fc75eb8e.css.map",
+    "main.b17e244d.js.map": "/audio-player/static/js/main.b17e244d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc75eb8e.css",
+    "static/js/main.b17e244d.js"
+  ]
+}
