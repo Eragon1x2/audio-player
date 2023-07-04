@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/audio-player/static/css/main.b7ad712b.css",
-    "main.js": "/audio-player/static/js/main.1b913063.js",
+    "main.css": "/audio-player/static/css/main.3a9fe2ef.css",
+    "main.js": "/audio-player/static/js/main.73806cc5.js",
     "static/media/leave_the_city.mp3": "/audio-player/static/media/leave_the_city.e8914c9a4e2342851245.mp3",
     "static/media/minecraft.mp3": "/audio-player/static/media/minecraft.fb9fd1726041f2c09531.mp3",
     "static/media/in_the_end.mp3": "/audio-player/static/media/in_the_end.3e1249f5a0bc482407ee.mp3",
@@ -15,11 +15,11 @@
     "static/media/right.svg": "/audio-player/static/media/right.72b96ee9fd9086bcd9244f02566186e1.svg",
     "static/media/pause.svg": "/audio-player/static/media/pause.95f9a6834ff7aa0b49c0f2290508f448.svg",
     "static/media/start.svg": "/audio-player/static/media/start.bec613a735299b65e82e3349cd92b3f6.svg",
-    "main.b7ad712b.css.map": "/audio-player/static/css/main.b7ad712b.css.map",
-    "main.1b913063.js.map": "/audio-player/static/js/main.1b913063.js.map"
+    "main.3a9fe2ef.css.map": "/audio-player/static/css/main.3a9fe2ef.css.map",
+    "main.73806cc5.js.map": "/audio-player/static/js/main.73806cc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7ad712b.css",
-    "static/js/main.1b913063.js"
+    "static/css/main.3a9fe2ef.css",
+    "static/js/main.73806cc5.js"
   ]
 }
